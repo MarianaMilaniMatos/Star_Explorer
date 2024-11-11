@@ -24,8 +24,3 @@ Bem-vindo ao repositório **Star Explorer**! 🚀 Este projeto é uma exploraç�
    
 ## 📄 Licença
 Este projeto é licenciado sob a MIT License.
-
-
-### Instruções Extras
-- Para as badges, estou usando o serviço [Shields.io](https://shields.io/), que gera imagens de ícones personalizadas. Para adicionar outras, você pode alterar a URL do serviço com o nome da tecnologia desejada, estilo e cor.
-- **Links de licenças** ou outras referências externas também podem ser adicionadas ao README para facilitar o acesso.
